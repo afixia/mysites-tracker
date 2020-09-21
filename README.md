@@ -1,4 +1,3 @@
-# mysites-tracker
-MySites Issue Tracker
+# MySites Issue Tracker
 
-Click the Issues tab above
+### Click the Issues tab above
